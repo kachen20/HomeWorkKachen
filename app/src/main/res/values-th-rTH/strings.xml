@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">homeworkk</string>
+    <string name="text_Election">นับถอยหลังวันเลือกตั้ง</string>
+    <string name="text_Days">วันที่</string>
+    <string name="text_Hours">ชัวโมง</string>
+    <string name="text_Minutes">นาที</string>
+    <string name="text_seconds">วินาที</string>
+    <string name="bottom_Next">ถัดไป</string>
+</resources>
