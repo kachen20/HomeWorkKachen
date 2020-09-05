@@ -24,7 +24,7 @@
         android:ems="10"
         android:hint="กรอกเลขบัตรประชาชน"
         android:inputType="number"
-        android:textSize="18sp"
+        android:textSize="24sp"
         app:layout_constraintBottom_toTopOf="@+id/check_button"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
